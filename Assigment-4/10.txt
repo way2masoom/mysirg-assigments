@@ -1,0 +1,3 @@
+How to convert a Decimal number into a Binary number and vice versa
+
+>> Divide the integer by 2 successively while noting the quotient and remainder, and write the reminder Down to UP
