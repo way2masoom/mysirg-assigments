@@ -1,0 +1,36 @@
+Assignment - 3 C Language LIVE Community Classes MySirG
+
+1)	What are the primitive data types in C Language?
+•	int - used to represent integer values.
+•	float - used to represent floating-point values with single precision.
+•	double - used to represent floating-point values with double precision.
+•	char - used to represent a single character.
+•	void - used to represent absence of data.
+
+2)	What kind of statements can be written outside the function body?
+•	The statements can be written outside the function bodies are The Heading name also called pre-processor Directives.
+
+3)	What is the size of the float type variable?
+•	The Size of Float size data is 4 bytes
+
+4)	 What is the value of an uninitialized variable?
+•	Garbage value
+
+5)	What is the difference between float and double?
+•	The difference between Float and Double is Float Store 4 byte where Double store 8 byte
+
+6)	What is the full form of ASCII?
+•	American Standard Code for information and Interchange 
+
+7)	What is the difference between a keyword and a function?
+Keywords are stored in the compiler although function can be created. Pre-defined function is defined in the library files.
+
+8)	Explore the use of type modifiers in C language
+    modifiers are basically used to customize the limitation of the values types of modifiers-
+   long, short, signed, unsigned, long-long
+ 
+9)	Can you assign a character constant in an int variable?
+•	Yes, we can Assign a character constant in an integer(int) variable but the int character assignee will be store ASCII code.
+
+10)	State the following statement as true or false –“Every block of code is a function”.
+•	Yes
