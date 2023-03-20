@@ -1,15 +1,15 @@
-// WAP  to find First digit of a given number
+// WAP  to find First digit of a given three Number
 #include <stdio.h>
 int main()
 {
-    int num, a, b, c;
-    printf("Enter the Number:");
+    int num,firstDigit;
+    printf("Enter three Numbers:");
     scanf("%d", &num);
 
     // To find First digit of given number
-    a = num / 100; // When we divied any number with 100 it will display the first digit
+    firstDigit= num / 100; // When we divied any number with 100 it will display the first digit
 
-    printf("First Digit is =%d", a);
+    printf("First Digit is =%d",firstDigit);
 
     return 0;
 }
