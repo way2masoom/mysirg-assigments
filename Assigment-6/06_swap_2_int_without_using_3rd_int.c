@@ -13,7 +13,7 @@ int main()
     printf("a=%d and b=%d", a, b);
 
     // Swapping Number
-    a = a + b; // a=10, b=20    a+b=(10+20)=30;
+    a = a + b; // a=10, b=20  a+b=(10+20)=30;
     b = a - b; // a=30, b=20  b=a-b=(30-20)=10
     a = a - b; // a=30, b=10  a-b=(30-10)=20
 
