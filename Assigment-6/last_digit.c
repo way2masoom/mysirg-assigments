@@ -2,12 +2,20 @@
 #include <stdio.h>
 int main()
 {
-    int num, last_digit;
+    int num1,num2,num3,lastDigit;
     printf("Enter the Number:");
-    scanf("%d", &num);
+    scanf("%d", &num1);
+
+    printf("Enter the Number:");
+    scanf("%d", &num2);
+
+    printf("Enter the Number:");
+    scanf("%d", &num3);
+
     // To find last digit of given number
-    last_digit = num % 10; // Remender will disply [ex=123] then only 3 will disply
-    printf("last Digit is =%d", last_digit);
+    lastDigit = num1 % 10; // Remender will disply [ex=123] then only 3 will disply
+
+    printf("last Digit is =%d", lastDigit);
 
     return 0;
 }
