@@ -8,6 +8,7 @@ int main()
     scanf("%d", &num);
 
     // To find First digit of given number
+    // To find First digit of given number
     middleDigit= (num / 10)%10; // I will display Middle digit
 
     printf("First Digit is =%d",middleDigit);

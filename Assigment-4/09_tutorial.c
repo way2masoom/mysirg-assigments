@@ -9,6 +9,6 @@ int main()
     char strType2 = 'a';
     printf("This is ASCII Code of A and a = \t %d & %d", strType1, strType2);
 
-    getch();
+    // getch();
     return 0;
 }

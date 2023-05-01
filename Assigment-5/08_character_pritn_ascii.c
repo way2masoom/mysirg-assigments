@@ -9,7 +9,7 @@ int main()
     printf("Enter a character to get it's ASCII code:");
     scanf("%c", &ascii);
 
-    printf("The ASCII value of %c = %d", ascii, ascii);
+    printf("The ASCII value of %c = %d", ascii,ascii);
     getch();
     return 0;
 }

@@ -9,7 +9,7 @@ int main()
     printf("Enter a number");
     scanf("%d", &x);
 
-    /* Condition To check the Number isPositive or NON-Positive
+    /* Condition To check the Number is Positive or NON-Positive
     By using Conditional Operator*/
     y = x > 0 ? printf("Positive Number") : printf("Negative Number");
 
