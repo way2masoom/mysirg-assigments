@@ -9,13 +9,13 @@ int main()
     printf("Enter the value of B:");
     scanf("%d", &b);
 
-    printf("Number Before swapp: A=%d and B=%d \n", a, b);
+    printf("Number Before swap: A=%d and B=%d \n", a, b);
 
     // Condition To Swap the Number
     temp = a; // a=5 temp=5
     a = b;    // a=5 b=10
     b = temp; // temp=5 b=5
-    printf("Number After swapp: A=%d and B=%d", a, b);
+    printf("Number After swap: A=%d and B=%d", a, b);
 
     return 0;
 }

@@ -6,7 +6,7 @@ int main()
     printf("Enter the Number:");
     scanf("%d", &num);
     // To find last digit of given number
-    last_digit = num % 10; // Remender will disply [ex=123] then only 3 will disply
+    last_digit = num % 10; // Remended will display [ex=123] then only 3 will display
     
     printf("last Digit is =%d", last_digit);
 

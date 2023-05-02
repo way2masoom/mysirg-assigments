@@ -7,7 +7,7 @@ int main()
     scanf("%d", &num);
 
     // To find First digit of given number
-    firstDigit= num / 100; // When we divied any number with 100 it will display the first digit
+    firstDigit= num / 100; // When we divide any number with 100 it will display the first digit
 
     printf("First Digit is =%d",firstDigit);
 

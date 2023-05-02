@@ -20,8 +20,9 @@ int main()
     printf("\n Digits after Rotated towards the Right: %d", result);
 
     // Logic For REVERSE
+    // int sum=0;
     //digit = (num % 10); // num=234 result=4
-    // sum=sum*10+digit; // sum= 0*10=0+4= 4
+    //sum=sum*10+digit; // sum= 0*10=0+4= 4
     //num=num/10;     // num= 234/10=23;
 
     return 0;
