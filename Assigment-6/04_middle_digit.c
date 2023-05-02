@@ -7,11 +7,10 @@ int main()
     printf("Enter three Numbers:");
     scanf("%d", &num);
 
-    // To find First digit of given number
-    // To find First digit of given number
-    middleDigit= (num / 10)%10; // I will display Middle digit
+    // To find Middle digit of given number
+    middleDigit= (num / 10)%10; // middle = (100/10)=10%10=1
 
-    printf("First Digit is =%d",middleDigit);
+    printf("Middle Digit is =%d",middleDigit);
 
     return 0;
 }
