@@ -1,2 +1,2 @@
-# mysirg-assigments
-Here I have completed all the MysirG C Assigments.
+# mysirg-assignment 
+In this repo I am completing #mysirG C programming free courses Assigment from beginning to End Inshallah
