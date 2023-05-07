@@ -5,7 +5,7 @@ int main()
     int i = 10;
     while (i >= 2)
     {
-        printf("Even Natural REVERSE Number=%d\n", i);
+        printf("Even Natural In REVERSE Order=%d\n", i);
         i -= 2;
     }
 

@@ -5,7 +5,7 @@ int main()
     int i = 1;
     while (i <= 10)
     {
-        printf("Square of first 10 Natural %d NUmber=%d\n", i, i * i * i);
+        printf("Cubes of first 10 Natural %d NUmber=%d\n", i, i * i * i);
         i++;
     }
 
