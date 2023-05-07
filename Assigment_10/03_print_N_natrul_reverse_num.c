@@ -4,10 +4,10 @@ int main()
 {
     int n = 1;
     int i = 20; 
-    for (i = 20; i >= n; i--)
+    for (i = 20; i >= n; i--) //wrong
     {
         printf("N times Natural Number In REVERSE Order =%d\n", i);
     }
 
     return 0;
-}
+}   

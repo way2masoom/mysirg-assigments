@@ -3,10 +3,10 @@
 int main()
 {
     int i = 10;
-    while (i >= 2)
+    while (i >= 1)
     {
-        printf("Even Natural In REVERSE Order=%d\n", i);
-        i -= 2;
+        printf("Even Natural In REVERSE Order=%d\n", i * 2);
+        i--;
     }
 
     return 0;
