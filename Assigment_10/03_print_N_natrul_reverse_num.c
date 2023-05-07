@@ -2,12 +2,14 @@
 #include <stdio.h>
 int main()
 {
-    int n = 1;
-    int i = 20; 
-    for (i = 20; i >= n; i--) //wrong
+    int i = 1;
+    int n = 20; // N number is define here as 20 times
+
+    while (i <= 10)
     {
-        printf("N times Natural Number In REVERSE Order =%d\n", i);
+        printf("N times Natural Number In REVERSE Order =%d\n", i * 2 - 1);
+        i++;
     }
 
     return 0;
-}   
+}
