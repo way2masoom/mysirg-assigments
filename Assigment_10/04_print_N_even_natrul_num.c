@@ -4,7 +4,7 @@ int main()
 {
     int i = 1;
     int n = 20; // N number is define here as 20 times
-    while (i < n)
+    while (i <= n)
     {
         printf("First N EVEN Natural Number=%d\n", i * 2);
         i++;
