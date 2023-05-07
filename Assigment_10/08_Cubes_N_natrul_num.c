@@ -1,4 +1,4 @@
-// Write a program to print the squares of first N natural numbers
+// Write a program to print the Cubes of first N natural numbers
 #include <stdio.h>
 int main()
 {
@@ -6,7 +6,7 @@ int main()
     int n = 20; // N times number is = 20 (suppose user entered 20)
     while (i <= n)
     {
-        printf("The Squares of first N natural numbers %d = %d\n", i, i * i);
+        printf("The Cubes of first N natural numbers %d = %d\n", i, i * i * i);
         i++;
     }
 
