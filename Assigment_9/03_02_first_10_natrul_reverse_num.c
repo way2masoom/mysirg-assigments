@@ -5,7 +5,7 @@ int main()
     int i = 10;
     while (i >= 1)
     {
-        printf("Natural REVERSE Number =%d\n", i);
+        printf("Natural Number In REVERSE Order =%d\n", i);
         i--;
     }
     return 0;
