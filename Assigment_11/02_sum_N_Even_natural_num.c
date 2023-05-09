@@ -9,7 +9,7 @@ int main()
     // Condition to calculate sum of first N even natural numbers
     for (i = 1; i <= n; i++)
     {
-        even = even + i * 2;
+        even = even + i * 2;    // To get Sum of Even number 
     }
     printf("First N EVEN Natural  Number=%d \n", even);
 

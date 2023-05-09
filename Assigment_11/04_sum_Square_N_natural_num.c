@@ -10,7 +10,7 @@ int main()
     // Checking the condition to calculate Sum of N numbers
     for (i = 1; i <= num; i++)
     {
-        sum = sum + i * i; // To add the number
+        sum = sum + i * i; // To get Square
     }
     printf("Sum of the first %d natural numbers is %d\n", num, sum);
 
