@@ -3,11 +3,9 @@
 
 int main()
 {
-    // Taking value Using getch()
-
-    int x = getch(); // getch() only take single value
-
-    printf("You Enter %d", x);
-
+    int x = 5, y;
+    y = x++;
+    // y = ++x;
+    printf("%d %d",x, y);
     return 0;
 }

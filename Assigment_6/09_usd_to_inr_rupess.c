@@ -10,7 +10,7 @@ int main()
     printf("Enter the amount in INR:");
     scanf("%f", &amount);
     
-    amount=amount/USD;
+    amount=amount/USD;  
 
     printf("Amount in USD is = %.2f  ",amount);
 

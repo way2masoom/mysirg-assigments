@@ -15,5 +15,6 @@ int main()
     num = (num * 10) + digit; // num=234*10=2340+5=2345
 
     printf("Number and append digit is = %d", num);
+
     return 0;
 }
