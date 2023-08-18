@@ -10,13 +10,12 @@ int main()
 
     // condition to check number is positive, Negative or Zero
     if (num >= 0)
-    {
-        printf("Positive Number");
-    }
+    
+    printf("Positive Number");
     else if (num <= 0)
-    {
-        printf("Number is Negative or Zero");
-    }
+
+    printf("Number is Negative or Zero");
+    
 
     return 0;
 }

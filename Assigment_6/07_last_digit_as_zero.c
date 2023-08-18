@@ -7,7 +7,10 @@ int main()
     printf("Enter A Number to make Last Digit as ZERO:");
     scanf("%d", &num);
 
-    num = num - (num % 10); // num=234-(234%10)=234-4=230
+    // num = num - (num % 10); // num=234-(234%10)=234-4=230
+    // or 
+    num=num/10; // 12345/10 = 1234
+    num=num*10; // 1234*10=12340
 
     printf("The last Digit as zero =%d", num);
     return 0;

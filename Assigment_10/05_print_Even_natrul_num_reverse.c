@@ -12,6 +12,6 @@ int main()
         printf("N times Natural Number In REVERSE Order =%d\n", i);
         i = i - 2;
     }
-
+  
     return 0;
 }
