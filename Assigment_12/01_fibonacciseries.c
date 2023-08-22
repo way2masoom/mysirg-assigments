@@ -12,7 +12,7 @@ int main()
         c = a + b; // c=a+b= means 0+1=1
         a = b;     // a=b means a=0 && b=1 so, a=b is a=1
         b = c;     // b=c means b=1 && c=1 b=c is b=1
-    }
+    } 
 
     // OR
     // int a = -1, b = 1, N, c;
