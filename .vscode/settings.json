@@ -2,6 +2,11 @@
     "files.associations": {
         "random": "c",
         "stdio.h": "c",
-        "type_traits": "c"
-    }
+        "type_traits": "c",
+        "HCF.C": "cpp",
+        "01_f.C": "cpp",
+        "01_Fibonacci_Series.C": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
