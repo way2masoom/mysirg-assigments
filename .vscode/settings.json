@@ -6,7 +6,11 @@
         "HCF.C": "cpp",
         "01_f.C": "cpp",
         "01_Fibonacci_Series.C": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "01_add_function_TS-RN.C": "cpp",
+        "02_add_function_TS-RN.C": "cpp",
+        "0_add_function_TS-RN.C": "cpp",
+        "02_add_function_TS-Rs.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
