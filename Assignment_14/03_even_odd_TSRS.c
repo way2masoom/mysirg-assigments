@@ -3,7 +3,6 @@
 #include <stdio.h>
 int isEven(int num);
 int main()
-
 {
     int num;
     printf("Enter the Number :");

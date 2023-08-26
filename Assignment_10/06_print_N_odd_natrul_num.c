@@ -6,7 +6,7 @@ int main()
     int n = 20; // N times number is = 20 (suppose user entered 20)
     while (i < n)
     {
-        printf("First N times ODD Natural Number is =%d\n", i * 2 - 1);
+        printf("First N times ODD Natural Number is =%d \n", i * 2 - 1);
         i++;
     }
 
