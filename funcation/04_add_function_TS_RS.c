@@ -2,7 +2,7 @@
 // A simple function to add two numbers
 
 #include <stdio.h> // For preedefine function such as printf()||sacnf()
-// int add(int, int); // Function Deceleration
+int add(int, int); // Function Deceleration
 int main()         // Main function     // Take Noting
 {
     int x, y, sum; // Local variable
